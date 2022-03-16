@@ -1,16 +1,19 @@
-
 .jumbotron {
-
-    padding-top: 2rem ;
-    background-color: #e2edff ;
+  padding-top: 2rem;
+  background-color: #e2edff;
+  height: 100vh;
+}
+#navbar {
+  position: fixed;
+  width: 100%;
+}
+#projek {
+  background-color: #e2edff;
 }
 
-#projek{
-
-    background-color: #e2edff;
+.logo {
+  background-color: #0d6efd;
 }
 
-.logo{
-    
-    background-color: #0d6efd;
+@media (max-width: 576px) {
 }
